@@ -28,7 +28,7 @@ react-native: 0.63.2
 ### Results:
 
 Home screen:
-![alt text] (https://github.com/CamilleWS/Test_ReactNative_Weather_Dashboard/blob/main/assets/HomeScreen.jpg?raw=true)
+![alt text](https://github.com/CamilleWS/Test_ReactNative_Weather_Dashboard/blob/main/assets/HomeScreen.jpg?raw=true)
 
 Settings screen:
-![alt text] (https://github.com/CamilleWS/Test_ReactNative_Weather_Dashboard/blob/main/assets/SettingsScreen.jpg?raw=true)
+![alt text](https://github.com/CamilleWS/Test_ReactNative_Weather_Dashboard/blob/main/assets/SettingsScreen.jpg?raw=true)
